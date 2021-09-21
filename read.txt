@@ -1,0 +1,6 @@
+install python
+pip install humanize
+pip install pafy
+pip install urllib
+pip install colorama
+pip install prettytable
